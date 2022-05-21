@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://stevezou0210.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://stevezou0210.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>发声者的大多数</title>
+      <link>https://stevezou0210.github.io/posts/majority-of-the-speakers/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevezou0210.github.io/posts/majority-of-the-speakers/</guid>
+      <description>一些思考：
+即使在网络世界，大多数人也是沉默者的角色，大多数非沉默者通常都有着更为激进的观点，这样一来，网络世界上的营造出的“大多数”的氛围可能远远比真正的大多数要激烈得多。
+一些发散思考：
+一，真正的大多数观点是否真的比网络上的“大多数”观点更有建设意义呢？是否愿意在网络世界做观点输出能不能算做一种门槛？这种门槛对观点本身有统计学意义上的价值过滤作用吗？退一步讲，这里的价值如何评判呢？是看谁更符合真实大多数人的想法吗？还是说人人皆平等，有一些人和他们的想法更平等？要知道，宪法上写着“维护广大人民绝大多数人的利益”，但可从没写过要按照绝大多数人的想法来维护。
+二，当网络世界中本该比现实世界更激进的“大多数”观点都时常带有具体意义上强烈的保守主义色彩时，现实的真实状况会是什么样的呢？
+三，当网络世界中与现实世界不同的“大多数”观点没有被公权力承认其合理性时，我们有必要分辨公权力是在贯彻真实大多数人的观点还是在贯彻更小样本的一些人的观点吗？如果有必要，怎么去分辨呢？</description>
+    </item>
+    
     <item>
       <title>在这冗长真实的旅途中，有人能真正离开吗？</title>
       <link>https://stevezou0210.github.io/reading-note/san-ge-hu-an-zai-hai-bian/</link>
@@ -211,15 +225,6 @@ EMAIL:stevezou0210@gmail.com
 WEIBO:@SteveZou
 TWITTER:@Steve_Zou0210
 TELEGRAM:@SteveZou</description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>https://stevezou0210.github.io/music/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevezou0210.github.io/music/</guid>
-      <description>我有一个 Home Recording Studio，欢迎来找我玩。</description>
     </item>
     
   </channel>
