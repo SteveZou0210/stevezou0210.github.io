@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stevezou0210.github.io/posts/</loc>
-    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://stevezou0210.github.io/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stevezou0210.github.io/writing/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stevezou0210.github.io/writing/we-looking-forward-to-snow-once-upon-a-time/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stevezou0210.github.io/posts/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stevezou0210.github.io/posts/go-to-mars/</loc>
@@ -13,9 +19,6 @@
   </url><url>
     <loc>https://stevezou0210.github.io/posts/loneliness/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stevezou0210.github.io/writing/</loc>
-    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stevezou0210.github.io/writing/window/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
